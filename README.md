@@ -26,7 +26,7 @@ This script retrieves a summary of all opened, closed, and draft pull requests i
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Aaditya-Nandeshwar/github-pull-request-summary.git
 
 2. Install the required libraries:
 
